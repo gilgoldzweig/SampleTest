@@ -34,8 +34,17 @@ The final task is mocking the restaurant's request with a mock json file that we
 
 Please submit the project as a zip file that contains your project and a readme file with instructions on how we need to compile it.
 
+Android submissions - send to Gil:
+gil.goldzweig@takeaway.com
+
+IOS submissions - send to Aran:
+aran.erlich@takeaway.com
+
 ## Final Notes 
  
 - We want to see clean code with testability in mind (there is no need for actual unit/UI tests)
 - You can use any open source library you desire.
+- The test should take you around 4 hours.
+
+Good luck
 
