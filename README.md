@@ -24,7 +24,7 @@ In addition to the pure data of the restaurant's list, we want you to persist th
 
 The data needs to be saved in a database, and it's up to you to decide what info you save and what info you don't.
 
-You don't need to implement to UI showing and or setting a restaurant as favorite; we want to see how you incorporate the 2 data sets into one and what protocols you set for the purpose.
+You don’t need to implement to UI showing and or setting a restaurant as favourite; we want to see how you incorporate the 2 data sets into one screen module, feel free to use any design patterns/architecture you want.
 
 ### Mocking 
 
