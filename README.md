@@ -22,9 +22,9 @@ https://my-json-server.typicode.com/gilgoldzweig/SampleTest/tree/master/restaura
 
 In addition to the pure data of the restaurant's list, we want you to persist the restaurant's favorite state. (The data is purely local and is not a part of the network request)
 
-The data needs to be saved in a database, and it's up to you to decide what info you save and what info you don't.
+The state should be set based on a toggle/image/button in the UI. Similar to liking a post on social netowrk.
 
-You don’t need to implement to UI showing and or setting a restaurant as favourite; we want to see how you incorporate the 2 data sets into one screen module, feel free to use any design patterns/architecture you want.
+The data needs to be saved in a database, and it's up to you to decide what info you save and what info you don't.
 
 ### Mocking 
 
