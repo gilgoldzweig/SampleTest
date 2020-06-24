@@ -14,7 +14,7 @@ Create a new project with a restaurant list page.
 Fill the list using the following rest request.
 
 GET:
-https://my-json-server.typicode.com/gilgoldzweig/SampleTest/tree/master/restaurants/
+https://my-json-server.typicode.com/gilgoldzweig/SampleTest/db
 
 ** Don't spend much time on how the items look or UI in general. **
 
