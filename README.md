@@ -20,7 +20,7 @@ https://my-json-server.typicode.com/gilgoldzweig/SampleTest/db
 
 ### Favorites 
 
-In addition to the pure data of the restaurant's list, we want you to persist the restaurant's favorite state. (The data is purely local and is not a part of the network request)
+In addition to loading the pure data of the restaurant's list, we want you to persist the restaurant's favorite state. (The data is purely local and is not a part of the network request)
 
 The state should be set based on a toggle/image/button in the UI. Similar to liking a post on social netowrk.
 
